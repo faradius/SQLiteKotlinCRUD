@@ -50,6 +50,12 @@
         android:text="Borrar" />
 
     <Button
+        android:id="@+id/btnConsultarLV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Consultar en ListView" />
+
+    <Button
         android:id="@+id/btnConsultar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
